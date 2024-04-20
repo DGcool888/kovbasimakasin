@@ -1,34 +1,110 @@
-body {
-    font-family: sans-serif;
+*{
+    margin: 0px;
 }
 
-header a{
-   position: fixed;
-   border: 1px solid blue;
-   background-color: blue;
-   color: white;
-   text-decoration: none;
-   padding: 10px;
-   border-radius: 10px;
-   left: 1100px;
+header{
+    background-color: red;
+    padding: 20px;
 }
 
-.tabl{
-    top: 120px;
+.c{
+    color: black;
+    border: 2px solid orange;
+    background-color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    margin-left: 30px;
+    box-shadow: 5px 5px 5px;
+    margin:20px;
+    }
+
+.c:hover{
+    background-color: coral;
+    border: 5px solid green;
+    transition: 1s linear;
 }
 
-.txt{
-  left:1120px;
+main{
+    display: block;
+    position: unset;
+    text-align: center;
+    padding: 20px;
+    background-color: aliceblue;
 }
 
-td:first-child{
-    color:white;
+main a{
+    border: 1px solid yellow;
+    border-radius: 30px;
+    background-color: yellow;
+    color:black;
+    font-size: 40px;
+    text-decoration: none;
+    display: block;
+    
+}
+
+.molochka{
+    border: 1px solid blue;
+    background-color: white;
+    width: 300px;
+}
+
+b{
+    text-decoration:underline ;
+}
+
+section{
+    border: 2px dashed blue;
+    bottom: 30px;
+}
+
+b{
+    text-align: left;
+    bottom: 30px;
+}
+
+
+
+nav a{
+    position: fixed;
+    right: -80px;
+    transition: 0.3s;
+    padding: 15px;
+    width: 100px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border-radius: 0 5px 5px 0;
+    border: 1px solid pink;
     background-color: pink;
 }
 
-tr td{
-    border: 1px solid greenyellow;
+nav a:hover{
+    right: 0;
 }
+
+.golovni{
+    top: 100px;
+}
+
+.znishka{
+    top: 160px;
+}
+
+.ot{
+    top: 220px;
+}
+
+.help{
+    width:100% ;
+    height:1000px ;
+}
+
+img{
+    display: flex;
+    align-items: ;
+}
+
 
 h1 li{
 background-color: hotpink;
