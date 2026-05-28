@@ -3,7 +3,7 @@
 <link rel="stylesheet"
     href="style.css">
   <div><header id="golovna"><h1>
-    <img src="https://i.pinimg.com/564x/47/fc/7d/47fc7d76b0dc9b5c67a9d18e2cb26ead.jpg" width="60px" height="60px"><a class="c" href="https://dgcool888.github.io/kovbasi/">ковбаса</a> <a class="c" href="https://dgcool888.github.io/vv/">спробувати</a> <a class="c" href="https://dgcool888.github.io/akcii/">акції</a></h1>
+    <img src="https://tedboycnd-cdhwdbg6ard6f4cp.z01.azurefd.net/images/thumbs/0010980_awfully-chocolate-cake-whole.png" width="60px" height="60px"><a class="c" href="https://dgcool888.github.io/kovbasi/">ковбаса</a> <a class="c" href="https://dgcool888.github.io/vv/">спробувати</a> <a class="c" href="https://dgcool888.github.io/akcii/">акції</a></h1>
 </header></div>
 <main>
   <h1><b>Товари зі знишкою</b></h1>
