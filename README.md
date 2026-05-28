@@ -8,13 +8,13 @@
 <main>
   <h1><b>Товари зі знишкою</b></h1>
   <p class="molochka">
-    <img src="https://calorizator.ru/sites/default/files/imagecache/product_512/product/sausage-16.jpg" width="300">
-    <img src="https://i.pinimg.com/564x/58/91/5d/58915db3f5da19056d2f0d1260cc82f1.jpg" width="50" height="50">
-    <a id="znishka" href="">сосиска молочна</a></p>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIPxEXan8K8oqdx-tpNRQjWc6l4LIny-YaHw&s" width="300">
+    <img src="https://www.piesandtacos.com/wp-content/uploads/2024/05/Strawberry-Cake-6-scaled.jpg" width="50" height="50">
+    <a id="znishka" href="">Шоколадний торт</a></p>
     <p class="molochka">
-      <img src="https://images.prom.ua/2354493538_naturalnaya-doktorskaya-kolbasa.jpg" width="300">
-       <img  src="https://i.pinimg.com/564x/58/91/5d/58915db3f5da19056d2f0d1260cc82f1.jpg" width="50px" height="50px">
-    <a href="">ковбаса докторська</a></p>
+      <img src="https://ichef.bbci.co.uk/food/ic/food_16x9_1600/recipes/easy_chocolate_cake_31070_16x9.jpg" width="300">
+       <img  src="https://images.food52.com/hCMCcgnrNaS51pbWEJUbEXkrLVo=/60a6e4b8-2765-4480-88f3-f96f73107941--2022-0607_angel-food-cake-with-strawberries-and-whipped-cream_seo_3x2_mj-kroeger-067.jpg" width="50px" height="50px">
+    <a href="">Кремовий бісквіт</a></p>
 </main>
 <footer>
 <h1><b>Відгуки</b></h1><br>
